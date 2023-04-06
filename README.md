@@ -24,7 +24,7 @@ Windows 7, game ver1.02a:
 ```csharp
 FIRST_OFFSETS_WIN7_102A = { 0x260, 0xA0 };
 ```
-Windows 7, game ver1.02a:
+Windows 7, game ver1.02:
 ```csharp
 FIRST_OFFSETS_WIN7_102 = { 0x270, 0xA0 };
 ```
