@@ -6,6 +6,8 @@ Download `KD2Prac.zip` from [here](https://github.com/shadax1/KD2Prac/releases) 
 
 **Note:** your game must be version 1.02 or 1.02a
 
+![demo pic](https://raw.githubusercontent.com/shadax1/KD2Prac/master/demo%20pic.png)
+
 ## Threadstack
 This tool uses `threadstack.exe` which helps locate the proper pointer address to be used by the tool in order to do reads and writes.
 
